@@ -4,6 +4,7 @@
 ---
 ```bash
 git clone https://github.com/kaoekb/manual_mac21.git
+cd manual_mac21
 ```
 
 ### Шаг 2 проверь, есть ли у тебя Docker
