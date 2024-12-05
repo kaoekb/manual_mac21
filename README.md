@@ -26,7 +26,7 @@ Docker version 20.10.7, build f0df350
 
 Если Docker не установлен, перейди на [официальный сайт Docker Desktop](https://www.docker.com/products/docker-desktop) и следуй инструкциям для установки.
 
-Кроме того, если у тебя установлен **Homebrew**, ты можешь установить Docker через него:
+Либо, если у тебя установлен **Homebrew**, ты можешь установить Docker через него:
 
 ```bash
 brew update
